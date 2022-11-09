@@ -2,7 +2,7 @@ This simple extention allows you to query ESV (English Standard Version) Bible v
 
 ## API Token
 
-**We will be required to created an account on api.ESV.org and generate an API token.**
+**We will be required to created an account on [api.ESV.org](https://api.ESV.org) and generate an API token.**
 
 ## To use this extension:
 
