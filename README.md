@@ -26,7 +26,7 @@ The API does a good job in figuring out the passage you're searching for.
 
 ## Screencast
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bbff2xugHeo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![ESV Bible Extension Screencast](https://img.youtube.com/vi/bbff2xugHeo/0.jpg)](https://www.youtube.com/watch?v=bbff2xugHeo)
 
 ## Fequently Asked Questions
 
